@@ -1,0 +1,240 @@
+{
+    "Premium Savings Account": {
+        "Name": "Premium Savings Account",
+        "Type": "Savings Account (Gold Saver)",
+        "Transaction Type": "Deposit",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Mortgage Payments",
+        "Interest Rate": "2.5%",  
+        "Minimum Balance": "$1,000"  
+    },
+    "VIP Savings Account": {
+        "Name": "VIP Savings Account",
+        "Type": "Savings Account (Gold Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Various",
+        "Interest Rate": "Assume the Interest Rate, e.g., 3.0%",
+        "Minimum Balance": "$5,000"
+    },
+    "Gold Priority Savings Account": {
+        "Name": "Gold Priority Savings Account",
+        "Type": "Savings Account (Gold Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Priority Services",
+        "Interest Rate": "Assume the Interest Rate, e.g., 2.75%",
+        "Minimum Balance": "$2,500"
+    },
+    "Platinum Savings Account": {
+        "Name": "Platinum Savings Account",
+        "Type": "Savings Account (Gold Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Concierge Services",
+        "Interest Rate": "Assume the Interest Rate, e.g., 3.5%",
+        "Minimum Balance": "$10,000"
+    },
+    "Premium Wealth Savings Account": {
+        "Name": "Premium Wealth Savings Account",
+        "Type": "Savings Account (Gold Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Wealth Management Services",
+        "Interest Rate": "Assume the Interest Rate, e.g., 4.0%",
+        "Minimum Balance": "$50,000"
+    },
+    "Exclusive Savings Account": {
+        "Name": "Exclusive Savings Account",
+        "Type": "Savings Account (Gold Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Exclusive Benefits",
+        "Interest Rate": "Assume the Interest Rate, e.g., 3.25%",
+        "Minimum Balance": "$20,000"
+    },
+    "Digital or Online Savings Account": {
+        "Name": "Digital or Online Savings Account",
+        "Type": "Savings Account (Smart Saver)",
+        "Transaction Type": "Online Transactions",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Digital Payments",
+        "Interest Rate": "Assume the Interest Rate, e.g., 2.0%",
+        "Minimum Balance": "$500"
+    },
+    "High-Interest Savings Account": {
+        "Name": "High-Interest Savings Account",
+        "Type": "Savings Account (Smart Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Various",
+        "Interest Rate": "Assume the High Interest Rate, e.g., 3.5%",
+        "Minimum Balance": "$1,000"
+    },
+    "Cashback Savings Account": {
+        "Name": "Cashback Savings Account",
+        "Type": "Savings Account (Smart Saver)",
+        "Transaction Type": "Cashback Rewards",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Cashback on Selected Categories",
+        "Interest Rate": "Assume the Interest Rate, e.g., 2.25%",
+        "Minimum Balance": "$500"
+    },
+    "Health Savings Account": {
+        "Name": "Health Savings Account",
+        "Type": "Savings Account (Smart Saver)",
+        "Transaction Type": "Health-related Expenses",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Medical Bills",
+        "Interest Rate": "Assume the Interest Rate, e.g., 1.75%",
+        "Minimum Balance": "$1,000"
+    },
+    "Green Savings Account": {
+        "Name": "Green Savings Account",
+        "Type": "Savings Account (Smart Saver)",
+        "Transaction Type": "Eco-friendly Transactions",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Green Initiatives",
+        "Interest Rate": "Assume the Interest Rate, e.g., 2.0%",
+        "Minimum Balance": "$500"
+    },
+    "Goal-Based Savings Account": {
+        "Name": "Goal-Based Savings Account",
+        "Type": "Savings Account (Smart Saver)",
+        "Transaction Type": "Goal-oriented Deposits",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Aligned with Financial Goals",
+        "Interest Rate": "Assume the Interest Rate, e.g., 2.5%",
+        "Minimum Balance": "$1,000"
+    },
+    "Student Savings Account": {
+        "Name": "Student Savings Account",
+        "Type": "Savings Account (Youth Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Educational Expenses",
+        "Interest Rate": "Assume the Interest Rate, e.g., 1.5%",
+        "Minimum Balance": "$100"
+    },
+    "Children's Savings Account": {
+        "Name": "Children's Savings Account",
+        "Type": "Savings Account (Youth Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Child-related Expenses",
+        "Interest Rate": "Assume the Interest Rate, e.g., 2.0%",
+        "Minimum Balance": "$50"
+    },
+    "Charitable or Community-focused Youth Savings Account": {
+        "Name": "Charitable or Community-focused Youth Savings Account",
+        "Type": "Savings Account (Youth Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Charitable Contributions",
+        "Interest Rate": "Assume the Interest Rate, e.g., 1.75%",
+        "Minimum Balance": "$75"
+    },
+    "Custodial Savings Account": {
+        "Name": "Custodial Savings Account",
+        "Type": "Savings Account (Youth Saver)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Guardianship-related Expenses",
+        "Interest Rate": "Assume the Interest Rate, e.g., 1.8%",
+        "Minimum Balance": "$200"
+    },
+    "Educational Savings Account": {
+        "Name": "Educational Savings Account",
+        "Type": "Current Account(Business Pro)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Educational Expenses",
+        "Interest Rate": "Assume the Interest Rate, e.g., 2.5%",
+        "Minimum Balance": "$150"
+    },
+    "Standard Current Account": {
+        "Name": "Standard Current Account",
+        "Type": "Current Account(Business Pro)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Various",
+        "Monthly Fee": "$10",
+        "Minimum Balance": "$1,000"
+    },
+    "Student Current Account": {
+        "Name": "Student Current Account",
+        "Type": "Current Account(Business Pro)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Student-related Expenses",
+        "Monthly Fee": "No Monthly Fee",
+        "Minimum Balance": "No Minimum Balance"
+    },
+    "Premium Current Account": {
+        "Name": "Premium Current Account",
+        "Type": "Current Account(Business Pro)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Priority Services",
+        "Monthly Fee": "$20",
+        "Minimum Balance": "$5,000"
+    },
+    "Business Current Account": {
+        "Name": "Business Current Account",
+        "Type": "Current Account(Business Pro)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "Business-related Expenses",
+        "Monthly Fee": "$30",
+        "Minimum Balance": "$10,000"
+    },
+    "Foreign National Current Account": {
+        "Name": "Foreign National Current Account",
+        "Type": "Current Account(Business Pro)",
+        "Transaction Type": "Deposit/Withdrawal",
+        "Fund Transfer": "Internal & External Accounts",
+        "Bill Payments": "International Transactions",
+        "Monthly Fee": "$50",
+        "Minimum Balance": "$15,000"
+    },
+    "Corporate Fixed Deposit": {
+        "Name": "Corporate Fixed Deposit",
+        "Type": "Fixed Deposit Account",
+        "Deposit Term": "Fixed Duration",
+        "Interest Rates": "Assume the Interest Rate, e.g., 4.0%",
+        "Withdrawal Option": "Upon Maturity",
+        "Minimum Deposit": "$50,000"
+    },
+    "Regular Income Fixed Deposit": {
+        "Name": "Regular Income Fixed Deposit",
+        "Type": "Fixed Deposit Account",
+        "Deposit Term": "Fixed Duration",
+        "Interest Rates": "Assume the Interest Rate, e.g., 3.5%",
+        "Withdrawal Option": "Monthly Interest Payout",
+        "Minimum Deposit": "$20,000"
+    },
+    "Flexi Fixed Deposit": {
+        "Name": "Flexi Fixed Deposit",
+        "Type": "Fixed Deposit Account",
+        "Deposit Term": "Flexible Duration",
+        "Interest Rates": "Assume the Interest Rate, e.g., 3.0%",
+        "Withdrawal Option": "Varies",
+        "Minimum Deposit": "$10,000"
+    },
+    "Cumulative Fixed Deposit": {
+        "Name": "Cumulative Fixed Deposit",
+        "Type": "Fixed Deposit Account",
+        "Deposit Term": "Fixed Duration",
+        "Interest Rates": "Assume the Cumulative Interest Rate, e.g., 3.75%",
+        "Withdrawal Option": "Upon Maturity",
+        "Minimum Deposit": "$25,000"
+    },
+    "Non-Cumulative Fixed Deposit": {
+        "Name": "Non-Cumulative Fixed Deposit",
+        "Type": "Fixed Deposit Account",
+        "Deposit Term": "Fixed Duration",
+        "Interest Rates": "Assume the Non-Cumulative Interest Rate, e.g., 3.25%",
+        "Withdrawal Option": "Varies",
+        "Minimum Deposit": "$15,000"
+    }
+}
